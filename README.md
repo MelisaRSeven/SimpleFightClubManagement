@@ -1,0 +1,2 @@
+# SimpleFightClubManagement
+Compare fighters and if they are suitable simulate a match get results and change skill points. If both fighter age &lt; 25 or >=25 and weight &lt;80 or >=80 they are suitable for each other. If the first fighter is boxer its a box match, if the first fighter is kick boxer then it is a kick box match. Kick boxer in a box match get -%15 skill point and boxer in a kickbox match get -%25.
